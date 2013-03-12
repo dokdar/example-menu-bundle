@@ -1,0 +1,23 @@
+{
+    "name": "gajdaw/example-menu-bundle",
+    "type": "symfony-bundle",
+    "description": "Menu....",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dariusz Budynek",
+            "email": "dariusz.budynek@gmail.com"
+        },
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/doctrine-bridge": ">=2.1.0,<2.3-dev",
+        "doctrine/doctrine-bundle": "~1.0",
+        "doctrine/data-fixtures": "*"
+    },
+    "autoload": {
+        "psr-0": { "Doctrine\\Bundle\\FixturesBundle": "" }
+    },
+    "target-dir": "Gajdaw/ExampleMenuBundle/FixturesBundle",
+}
