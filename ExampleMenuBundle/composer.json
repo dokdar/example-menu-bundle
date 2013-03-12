@@ -19,5 +19,5 @@
     "autoload": {
         "psr-0": { "Doctrine\\Bundle\\FixturesBundle": "" }
     },
-    "target-dir": "Gajdaw/ExampleMenuBundle/FixturesBundle",
+    "target-dir": "dokdar/example-menu-bundle/ExampleMenuBundle",
 }
