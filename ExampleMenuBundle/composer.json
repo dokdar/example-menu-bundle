@@ -17,7 +17,7 @@
         "doctrine/data-fixtures": "*"
     },
     "autoload": {
-        "psr-0": { "Doctrine\\Bundle\\FixturesBundle": "" }
+        "psr-0": { "dokdar\\ExampleMenuBundle": "" }
     },
-    "target-dir": "dokdar/example-menu-bundle/ExampleMenuBundle",
+    "target-dir": "dokdar/example-menu-bundle",
 }
